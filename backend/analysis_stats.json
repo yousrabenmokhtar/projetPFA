@@ -1,0 +1,59 @@
+{
+  "total_uploads": 7,
+  "daily_stats": {
+    "2025-08-23": 1,
+    "2025-08-24": 6
+  },
+  "distribution": {
+    "invoice": 1,
+    "purchase order": 0,
+    "shippingorder": 0,
+    "report": 2,
+    "purchase Order": 2,
+    "ShippingOrder": 2
+  },
+  "document_history": [
+    {
+      "filename": "purcha.pdf",
+      "type": "purchase Order",
+      "confidence": 0.993,
+      "timestamp": "2025-08-23T23:55:55.921424"
+    },
+    {
+      "filename": "StockR.pdf",
+      "type": "report",
+      "confidence": 0.987,
+      "timestamp": "2025-08-24T00:34:22.763111"
+    },
+    {
+      "filename": "facture.pdf",
+      "type": "report",
+      "confidence": 0.893,
+      "timestamp": "2025-08-24T00:39:28.234182"
+    },
+    {
+      "filename": "purcha.pdf",
+      "type": "purchase Order",
+      "confidence": 0.993,
+      "timestamp": "2025-08-24T00:39:51.998830"
+    },
+    {
+      "filename": "ship.pdf",
+      "type": "ShippingOrder",
+      "confidence": 0.988,
+      "timestamp": "2025-08-24T00:54:55.530408"
+    },
+    {
+      "filename": "in.pdf",
+      "type": "invoice",
+      "confidence": 0.985,
+      "timestamp": "2025-08-24T01:50:25.812766"
+    },
+    {
+      "filename": "ship (1).pdf",
+      "type": "ShippingOrder",
+      "confidence": 0.988,
+      "timestamp": "2025-08-24T02:51:47.760002"
+    }
+  ]
+}

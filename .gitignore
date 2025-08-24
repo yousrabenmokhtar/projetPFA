@@ -1,0 +1,16 @@
+# Ignorer le modèle sauvegardé
+backend/models/pdf_classifier_final
+
+# Ignorer le dataset sensible
+backend/data/company-document-text.csv
+
+# Ignorer node_modules (frontend React/Vite)
+node_modules/
+
+# Ignorer l'environnement virtuel Python (backend Flask/FastAPI)
+venv/
+
+# Fichiers temporaires / cache
+__pycache__/
+*.pyc
+.DS_Store
