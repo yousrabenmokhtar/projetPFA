@@ -1,16 +1,17 @@
 {
-  "total_uploads": 7,
+  "total_uploads": 10,
   "daily_stats": {
     "2025-08-23": 1,
-    "2025-08-24": 6
+    "2025-08-24": 6,
+    "2025-08-25": 3
   },
   "distribution": {
     "invoice": 1,
     "purchase order": 0,
     "shippingorder": 0,
     "report": 2,
-    "purchase Order": 2,
-    "ShippingOrder": 2
+    "purchase Order": 3,
+    "ShippingOrder": 4
   },
   "document_history": [
     {
@@ -54,6 +55,24 @@
       "type": "ShippingOrder",
       "confidence": 0.988,
       "timestamp": "2025-08-24T02:51:47.760002"
+    },
+    {
+      "filename": "purcha.pdf",
+      "type": "purchase Order",
+      "confidence": 0.993,
+      "timestamp": "2025-08-25T01:32:45.099694"
+    },
+    {
+      "filename": "order.pdf",
+      "type": "ShippingOrder",
+      "confidence": 0.894,
+      "timestamp": "2025-08-25T01:47:45.536680"
+    },
+    {
+      "filename": "ship.pdf",
+      "type": "ShippingOrder",
+      "confidence": 0.988,
+      "timestamp": "2025-08-25T01:50:02.127814"
     }
   ]
 }
